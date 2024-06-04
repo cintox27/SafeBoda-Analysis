@@ -6,3 +6,6 @@ This analysis was carried out within a 7-days period, were ~83k unique passenger
 
 ![alt text](image-1.png)
 From the analysis we are able to see that Friday recorded both the highest number of passenger's ride order and cancellations.
+
+![alt text](image-2.png)
+It can also be seen that Central Subcounty has the largest percentage of passengers that made ride orders and likewise also have the largest percentage of passengers with cancelled request.
