@@ -27,3 +27,6 @@ During the 7 days analysis periods, SaeBoda recorded 17 unique suscounty and 150
 
 ![alt text](image-8.png)
 36min was recorded as the longest average travelling time while 17min was recorded as the lowest average travelling time. Kira was seen to have the highest average waiting time with 79min which might have happened due to the system error od delayed cancellation.
+
+![alt text](image-9.png)
+Top ten parishes with the highest completed and canacelled trips.
