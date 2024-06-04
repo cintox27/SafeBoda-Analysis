@@ -18,3 +18,6 @@ Driver with driver id 791284 has the highest trip completion rate, while driver 
 
 ![alt text](image-5.png)
 Within the 7days trasacting analysis carried out, 76% completed trip and 24% cancelled trip analysis was observed.
+
+![alt text](image-6.png)
+This is an hourly dristribution of the trip from 8am to 10pm in the evening with Monday and Friday recording the highest cancellation rate towards the evening period.
