@@ -12,3 +12,6 @@ It can also be seen that Central Subcounty has the largest percentage of passeng
 
 ![alt text](image-3.png)
 96% of the passengers reordered after 10min of their ride cancellation, while 4% did not reordered.
+
+![alt text](image-4.png)
+Driver with driver id 791284 has the highest trip completion rate, while driver with driver id 169264 has the highest completion and cancelled rate. 
