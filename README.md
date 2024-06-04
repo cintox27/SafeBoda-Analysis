@@ -21,3 +21,6 @@ Within the 7days trasacting analysis carried out, 76% completed trip and 24% can
 
 ![alt text](image-6.png)
 This is an hourly dristribution of the trip from 8am to 10pm in the evening with Monday and Friday recording the highest cancellation rate towards the evening period.
+
+![alt text](image-7.png)
+During the 7 days analysis periods, SaeBoda recorded 17 unique suscounty and 150 parishes as area of the ride business.
