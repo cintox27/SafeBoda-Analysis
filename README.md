@@ -15,3 +15,6 @@ It can also be seen that Central Subcounty has the largest percentage of passeng
 
 ![alt text](image-4.png)
 Driver with driver id 791284 has the highest trip completion rate, while driver with driver id 169264 has the highest completion and cancelled rate. 
+
+![alt text](image-5.png)
+Within the 7days trasacting analysis carried out, 76% completed trip and 24% cancelled trip analysis was observed.
