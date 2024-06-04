@@ -24,3 +24,6 @@ This is an hourly dristribution of the trip from 8am to 10pm in the evening with
 
 ![alt text](image-7.png)
 During the 7 days analysis periods, SaeBoda recorded 17 unique suscounty and 150 parishes as area of the ride business.
+
+![alt text](image-8.png)
+36min was recorded as the longest average travelling time while 17min was recorded as the lowest average travelling time. Kira was seen to have the highest average waiting time with 79min which might have happened due to the system error od delayed cancellation.
