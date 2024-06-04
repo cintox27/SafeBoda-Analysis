@@ -9,3 +9,6 @@ From the analysis we are able to see that Friday recorded both the highest numbe
 
 ![alt text](image-2.png)
 It can also be seen that Central Subcounty has the largest percentage of passengers that made ride orders and likewise also have the largest percentage of passengers with cancelled request.
+
+![alt text](image-3.png)
+96% of the passengers reordered after 10min of their ride cancellation, while 4% did not reordered.
